@@ -6,3 +6,5 @@ This is my first GitHub project.
 
 This repository contains my About Me website, built with AI prompts.
 
+The website files are in the docs folder and published with GitHub Pages.
+
